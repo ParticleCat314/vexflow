@@ -24,6 +24,8 @@ If your project uses a bundler, you can install VexFlow from npm:
 npm install vexflow
 ```
 
+[Browse the repository documentation](./docs/README.md).
+
 [See our tutorial](https://vexflow.github.io/vexflow-examples/guides/tutorial/).
 
 ## Factory and EasyScore
@@ -88,13 +90,20 @@ A good way to learn the API is to look at our examples & unit tests:
 
 - [Unit Tests](https://github.com/vexflow/vexflow/tree/main/tests)
 
+## Documentation
+
+- [Documentation index](./docs/README.md)
+- [Development guide](./docs/development.md)
+- [Demos guide](./demos/README.md)
+- API reference can be generated locally with `grunt build:docs`
+
 ## More Resources
 
 - If you need help, start a [GitHub discussion](https://github.com/vexflow/vexflow/discussions).
 
 - Learn more on the [VexFlow wiki](https://github.com/vexflow/vexflow/wiki).
 
-- Build VexFlow from scratch by following the [build instructions](https://github.com/vexflow/vexflow/wiki/Build).
+- Build VexFlow from scratch by following the [development guide](./docs/development.md).
 
 - [VexFlow](https://vexflow.com) was created by [Mohit Muthanna Cheppudira](https://muthanna.com) in 2010. It is currently maintained by [Ron Yeh](https://github.com/ronyeh) and [Rodrigo Vilar](https://github.com/rvilarl). Many others have contributed with code, documentation, bug reports, and feature requests. See the [list of contributors](https://github.com/0xfe/vexflow/graphs/contributors).
 
