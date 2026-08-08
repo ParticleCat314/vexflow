@@ -24,7 +24,7 @@ If your project uses a bundler, you can install VexFlow from npm:
 npm install vexflow
 ```
 
-[See our tutorial](https://vexflow.github.io/vexflow-examples/tutorial).
+[See our tutorial](https://vexflow.github.io/vexflow-examples/guides/tutorial/).
 
 ## Factory and EasyScore
 
@@ -51,7 +51,7 @@ system
 factory.draw();
 ```
 
-[See it running here.](https://vexflow.github.io/vexflow-examples/getting-started)
+[See it running here.](https://vexflow.github.io/vexflow-examples/guides/getting-started/)
 
 [Learn more about EasyScore here.](https://github.com/0xfe/vexflow/wiki/Using-EasyScore)
 
