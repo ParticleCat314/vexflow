@@ -11,8 +11,8 @@ Build the library from the repository root:
 
 ## Demo Areas
 
-- [`entry/`](./entry/README.md): examples for the packaged entry points and module loading
-- [`modules/`](./modules/README.md): CommonJS and ES module loading examples
+- [`entry/`](./entry/README.md): examples for the packaged VexFlow bundles and their browser entry points
+- [`modules/`](./modules/README.md): focused CommonJS and ES module loading examples
 - [`node/`](./node/README.md): Node.js rendering examples
 - [`fonts/`](./fonts/README.md): music font loading and font-related examples
 
